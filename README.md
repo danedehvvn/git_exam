@@ -1,5 +1,3 @@
-# [i]
-
 # Hello, Git!
 ## vim : text editor
 ### .md : markdown
